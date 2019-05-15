@@ -1,0 +1,14 @@
+D:\Visual Studio\Projekty\projekt2\projekt2\projekt2\bin\Debug\projekt2.exe.config
+D:\Visual Studio\Projekty\projekt2\projekt2\projekt2\bin\Debug\projekt2.exe
+D:\Visual Studio\Projekty\projekt2\projekt2\projekt2\bin\Debug\projekt2.pdb
+D:\Visual Studio\Projekty\projekt2\projekt2\projekt2\obj\Debug\projekt2.csprojAssemblyReference.cache
+D:\Visual Studio\Projekty\projekt2\projekt2\projekt2\obj\Debug\projekt2.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projekty\projekt2\projekt2\projekt2\obj\Debug\projekt2.exe
+D:\Visual Studio\Projekty\projekt2\projekt2\projekt2\obj\Debug\projekt2.pdb
+C:\Users\Dell\Desktop\projekt2\kod\projekt2\bin\Debug\projekt2.exe.config
+C:\Users\Dell\Desktop\projekt2\kod\projekt2\bin\Debug\projekt2.exe
+C:\Users\Dell\Desktop\projekt2\kod\projekt2\bin\Debug\projekt2.pdb
+C:\Users\Dell\Desktop\projekt2\kod\projekt2\obj\Debug\projekt2.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\projekt2\kod\projekt2\obj\Debug\projekt2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\projekt2\kod\projekt2\obj\Debug\projekt2.exe
+C:\Users\Dell\Desktop\projekt2\kod\projekt2\obj\Debug\projekt2.pdb
